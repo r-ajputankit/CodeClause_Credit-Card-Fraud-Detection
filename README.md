@@ -42,8 +42,8 @@ Note: the model has been trained with values of the features.
 
 ## Evaluation
 The evaluation is done with following-
-    1. Accuracy test
-    2. mean squared error
+1. Accuracy test
+2. mean squared error
 
 ## Conclusion
 The Credit Card Fraud Detection project provides a solution to identify and prevent fraudulent credit card transactions. By using machine learning algorithms and evaluating their performance, we can develop an effective fraud detection system that safeguards customers and financial institutions.
