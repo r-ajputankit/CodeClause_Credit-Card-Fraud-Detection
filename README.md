@@ -14,7 +14,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository to your local machine.
 
-        git clone https://github.com/your-username/credit-card-fraud-detection.git
+        git clone https://github.com/r-ajputankit/CodeClause_Credit-Card-Fraud-Detection
         cd credit-card-fraud-detection
 
 2. Create a virtual environment
